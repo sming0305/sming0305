@@ -1,8 +1,8 @@
-### Hi 我是 Andy :wave: :smile:
+### Hi 你好~ 我是 Andy :wave: :smile:
 
-你好~ 這裡是Andy的Github  
-持續研究學習前端技術，努力成為一名前端工程師的路上。  
-目前主要使用 Vue + Vite 及 Bootstrap 進行開發
+這裡是 Andy 的 Github，  
+持續研究學習前端技術，努力成為一名前端工程師的路上，   
+目前主要使用 Vue + Vite 及 Bootstrap 進行開發。
 
 相關使用技術及小作品歡迎於下方參閱 :  
 :atm: : [全民共享普發現金-ATM地圖](https://sming0305.github.io/6000-ATM-Map/)  
