@@ -1,4 +1,4 @@
-### Hi 你好~ 我是 Andy :wave: :smile:
+### Hi 你好~ 我是 Andy :wave: :grinning:
   
 持續研究學習前端技術，努力成為一名前端工程師的路上，   
 目前主要使用 Vue + Vite 及 Bootstrap 進行開發。
