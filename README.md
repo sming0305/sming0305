@@ -10,4 +10,4 @@
 
 
 Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>  
-CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673" target="_blank" rel="noreferrer noopenner">履歷</a>
+CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">履歷</a>
