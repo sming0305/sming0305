@@ -8,6 +8,6 @@
 :car: : [汽車租賃品牌 URCAR 前台模擬](https://sming0305.github.io/URCAR/#/) / [Repository](https://github.com/sming0305/URCAR)  
 :city_sunset: : [北市文創園區-展演資訊匯集 & 觀展日查詢網站](https://sming0305.github.io/Let-s-Entertaining/) / [Repository](https://github.com/sming0305/Let-s-Entertaining) 
 
-CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">履歷</a>
+CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">履歷</a>  
 Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>  
 
