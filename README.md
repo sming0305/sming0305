@@ -9,5 +9,5 @@
 :city_sunset: : [北市文創園區-展演資訊匯集 & 觀展日查詢網站](https://sming0305.github.io/Let-s-Entertaining/) / [Repository](https://github.com/sming0305/Let-s-Entertaining) 
 
 
-Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>
+Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>  
 CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673" target="_blank" rel="noreferrer noopenner">履歷</a>
