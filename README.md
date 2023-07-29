@@ -1,7 +1,7 @@
 ### Hi 你好~ 我是 Andy :wave::grinning:
   
 持續研究學習前端技術
-目前主要使用 Vue + Vite 及 Bootstrap 進行開發。
+目前主要使用 Vue 進行開發。
 
 相關使用技術及小作品歡迎於下方參閱 :  
 :car: : [汽車租賃品牌 URCAR 前台模擬](https://sming0305.github.io/URCAR/#/) / [Repository](https://github.com/sming0305/URCAR)  
