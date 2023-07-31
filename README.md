@@ -9,7 +9,7 @@
 :atm: : [全民共享普發現金-ATM 地圖](https://sming0305.github.io/6000-ATM-Map/) / [Repository](https://github.com/sming0305/6000-ATM-Map)  
 :city_sunset: : [北市文創園區-展演資訊匯集 & 觀展日查詢網站](https://sming0305.github.io/Let-s-Entertaining/) / [Repository](https://github.com/sming0305/Let-s-Entertaining) 
 
-CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">履歷</a>  
+
 Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>  
 Medium : :memo: https://medium.com/@sming0305
-
+<a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">CakeResume 履歷</a>  
