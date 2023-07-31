@@ -12,5 +12,4 @@
 
 Contact Information : :mailbox: <a href="mailto:sming0305@mail.com">sming0305@mail.com</a>  
 Medium : :memo: https://medium.com/@sming0305  
-
-<a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">CakeResume</a>  
+CakeResume : <a href="https://www.cakeresume.com/s--busYj0A3V7Sh1cD_6rbS9A--/yi-aea673">CakeResume</a>  
